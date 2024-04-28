@@ -4,7 +4,7 @@
 - 📫 U can reach me at vazxelroy@gmail.com
 
 - CURRENT PROJECTS
-1)G
+1) https://github.com/elroyvaz/Fight-Covid-Website/blob/9470c6adb990f28623c9f375ddf16ce18922a051/README.md#fight-covid-website
 2)H
 3)H
 4)H
