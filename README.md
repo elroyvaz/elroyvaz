@@ -5,8 +5,8 @@
 
 - CURRENT PROJECTS
 1) https://github.com/elroyvaz/Fight-Covid-Website/blob/9470c6adb990f28623c9f375ddf16ce18922a051/README.md#fight-covid-website
-2)H
-3)H
+2) https://github.com/elroyvaz/Monthly-Transaction-Record-Project/blob/3ade84c62bafa0ec6e4a4acac4974d9d3f88c2b1/README.md
+3)
 4)H
 
 <!---
