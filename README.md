@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elroyvaz
-- 👀 I’m interested in Software Development, and UI/UX design
+- 👀 I’m  a Data Analyst and Front-end Dev
 - 🌱 I’m currently learning Computer Science at Wilfrid Laurier University
 - 📫 U can reach me at vazxelroy@gmail.com
 
